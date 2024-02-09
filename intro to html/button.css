@@ -1,0 +1,19 @@
+      
+    button{
+        background-color: rgb(200, 0, 0);
+        color:white;
+        border: none;
+        height: 36px;
+        width: 105px;
+        cursor: pointer;
+        font-family: ;
+        
+    }
+    #b1{
+        background-color: white;
+        border: 1px solid blue;
+        height: 36px;
+        width: 62px;
+        color:blue;
+        margin-left: 8px;
+    }
